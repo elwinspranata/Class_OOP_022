@@ -45,6 +45,12 @@ void Matakuliah::TampilanMK() {
 	cout << "Jumlah SKS : " << sks << endl;
 }
 
+int main()
+{
+	mahasiswa mhs;
+	Matakuliah mk;
+}
+
 
 
 
